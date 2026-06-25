@@ -1,4 +1,4 @@
-# tapestation-median
+# Agilent Tapestation-median
 Adds a median fragment-size column to TapeStation / Fragment Analyzer sample tables
 # add_median — TapeStation Median Fragment-Size Tool
 
