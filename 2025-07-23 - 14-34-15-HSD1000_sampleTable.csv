@@ -1,0 +1,17 @@
+Well,Conc. [pg/µl],Sample Description,Alert,Observations
+A1,910,Ladder,,Ladder
+B1,113,4878,,
+C1,91.3,3607,,
+D1,97.5,786,,
+E1,89.7,3159,,
+F1,3.32,280,!,Sample concentration outside recommended range
+G1,119,338,,
+H1,116,1550,,
+A2,82.6,5182,,
+B2,12.2,1145,,
+C2,104,2666,,
+D2,62.7,3973,,
+E2,137,734,,
+F2,106,n1,,
+G2,325,n2,,
+H2,111,n3,,
