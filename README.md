@@ -106,7 +106,7 @@ modify and share it; attribution is appreciated.
 
 ## Author
 
-Created by **Bhanu Pratap Gurjar, PhD**
+Created by **Bhanu Pratap Gurjar, PhD**,
  Bioinformatician, NGS Core Facility — National Institute of Immunology, New Delhi
 📧 bhanu@nii.a.in
 
