@@ -108,7 +108,7 @@ modify and share it; attribution is appreciated.
 
 Created by **Bhanu Pratap Gurjar, PhD**,
  Bioinformatician, NGS Core Facility — National Institute of Immunology, New Delhi
-📧 bhanu@nii.a.in
+📧 bhanu@nii.ac.in
 
 Feel free to open an issue or reach out if something breaks or you want a feature
 added.
